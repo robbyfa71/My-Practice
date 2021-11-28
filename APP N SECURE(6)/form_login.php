@@ -31,6 +31,11 @@
                 </td>
             </tr>
             <tr>
+                <td class="p-3" colspan=2>
+                    <input class="form-control" type="email" name="Email" placeholder="email">
+                </td>
+            </tr>
+            <tr>
                 <td class = "p-3"><input class="form-control" name="captcha_code" type="text" placeholder="Kode Captcha"></td>
                 <td class="p-3"><img src="captcha.php"></td>
             </tr>
