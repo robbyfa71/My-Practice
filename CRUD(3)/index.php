@@ -1,4 +1,5 @@
 <?php
+
     //membuat koneksi database
     include_once("koneksi.php");
 
@@ -34,5 +35,6 @@
         }
         ?>
     </table>
+    <button onClick="print()">Cetak</button>//perintah untuk mencetak javascript
 </body>
 </html>
